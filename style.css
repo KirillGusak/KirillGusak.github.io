@@ -1,0 +1,94 @@
+.mountain {
+  width: 1400px;
+  margin-top: 200px;
+  
+ 
+}
+
+body {
+  background-color: rgb(175, 172, 172)
+}
+
+
+.alphin {
+  position: relative;
+  width: 35px;
+  bottom: 90px;
+  left: 180px;
+  z-index: 1;
+}
+
+.score {
+  position: relative;
+  font-size: 30px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  height: 50px;
+  text-align: center ;
+  color: rgb(51, 50, 50);
+  top: 100px;
+  font-weight: bold;
+}
+
+
+.flag {
+  width: 50px;
+  position: relative;
+  top: 225px;
+  left: 1015px;
+  visibility: hidden;
+}
+
+.chekpoint {
+  position: relative;
+  width: 25px;
+  background-color: rgb(161, 25, 25);
+  height: 3px;
+  
+  
+}
+
+#c-0 {
+  bottom: 155px;
+  left: 180px;
+}
+
+#c-1 {
+  bottom: 320px;
+  left: 345px;
+}
+
+
+#c-2 {
+  bottom: 420px;
+  left: 590px;
+}
+
+
+#c-3 {
+  bottom: 260px;
+  left: 850px;
+}
+
+
+#c-4 {
+  bottom: 450px;
+  left: 1030px;
+}
+
+
+
+
+
+
+.audio-track {
+  width: 150px;
+  height: 3px;
+  background-color: #dddddd;
+  margin: 20px 0
+}
+
+.time {
+  width: 0;
+  height: 3px;
+  background-color: #474747
+}
